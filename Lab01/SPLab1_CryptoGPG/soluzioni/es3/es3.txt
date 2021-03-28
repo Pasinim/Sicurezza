@@ -1,0 +1,6 @@
+Nell'esercizio #2, prima di verificare l'integrita del download di gpg e` necessario importare la chiave pubblica reperibile sul sito (https://gnupg.org/signature_key.html) ed eseguire il seguente comando:
+gpg --import chiave.asc
+
+
+Es #3
+Prima di firmare le chiavi e` necessario importarle e in seguito recuperare la mail 
