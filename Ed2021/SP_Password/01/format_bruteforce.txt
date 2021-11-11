@@ -1,0 +1,72 @@
+Warning: detected hash type "LM", but the string is also recognized as "dynamic=md5($p)"
+Use the "--format=dynamic=md5($p)" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "HAVAL-128-4"
+Use the "--format=HAVAL-128-4" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "MD2"
+Use the "--format=MD2" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "mdc2"
+Use the "--format=mdc2" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "mscash"
+Use the "--format=mscash" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "mscash2"
+Use the "--format=mscash2" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "NT"
+Use the "--format=NT" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "Raw-MD4"
+Use the "--format=Raw-MD4" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "Raw-MD5"
+Use the "--format=Raw-MD5" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "Raw-MD5u"
+Use the "--format=Raw-MD5u" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "Raw-SHA1-AxCrypt"
+Use the "--format=Raw-SHA1-AxCrypt" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "ripemd-128"
+Use the "--format=ripemd-128" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "Snefru-128"
+Use the "--format=Snefru-128" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "ZipMonster"
+Use the "--format=ZipMonster" option to force loading these as that type instead
+Using default input encoding: UTF-8
+Using default target encoding: CP850
+Loaded 36 password hashes with no different salts (LM [DES 128/128 AVX])
+Warning: poor OpenMP scalability for this hash type, consider --fork=4
+Will run 4 OpenMP threads
+Proceeding with single, rules:Single
+Press 'q' or Ctrl-C to abort, almost any other key for status
+Almost done: Processing the remaining buffered candidate passwords, if any.
+Warning: Only 414 candidates buffered for the current salt, minimum 512 needed for performance.
+Proceeding with wordlist:/usr/share/john/password.lst, rules:Wordlist
+Proceeding with incremental:LM_ASCII
+0g 0:00:00:05 0.00% 3/3 (ETA: 2021-11-14 05:48) 0g/s 26335Kp/s 26335Kc/s 1124MC/s ALTHGG2..AMAKNB3
+Session aborted
+                                                                                                 
+┌──(kali㉿kali)-[~/Desktop/Sicurezza/Ed2021/SP_Password]
+└─$ sudo john --wordlist crackme.txt > format_bruteforce.txt                                 1 ⨯
+Warning: detected hash type "LM", but the string is also recognized as "dynamic=md5($p)"
+Use the "--format=dynamic=md5($p)" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "HAVAL-128-4"
+Use the "--format=HAVAL-128-4" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "MD2"
+Use the "--format=MD2" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "mdc2"
+Use the "--format=mdc2" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "mscash"
+Use the "--format=mscash" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "mscash2"
+Use the "--format=mscash2" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "NT"
+Use the "--format=NT" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "Raw-MD4"
+Use the "--format=Raw-MD4" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "Raw-MD5"
+Use the "--format=Raw-MD5" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "Raw-MD5u"
+Use the "--format=Raw-MD5u" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "Raw-SHA1-AxCrypt"
+Use the "--format=Raw-SHA1-AxCrypt" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "ripemd-128"
+Use the "--format=ripemd-128" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "Snefru-128"
+Use the "--format=Snefru-128" option to force loading these as that type instead
+Warning: detected hash type "LM", but the string is also recognized as "ZipMonster"
+Use the "--format=ZipMonster" option to force loading these as that type instead
