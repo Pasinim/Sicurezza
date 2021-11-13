@@ -17,3 +17,6 @@ adam:flag
 roger:steve
 federik:password
 steve:goodwork
+
+___LEET___
+m4rk:zxcvbnm_k&nny:p4ssw()rd1_d4v!d:!l()v&y()(_)_&ll&n:p4ssw0rd_fr&d:p4ssw()rd!_g&()rg&:pr!nc&ss_h!lb&rt:h!lb&rt_j()nny:dr4g()n_k&nny:s(_)p&rm4n_n!ck:qw&rty(_)!()p_()l!v!4:st4rw4rs_r!ck:n!nj4_sh4r()n:111111_tr&v()r:qw&rty123_ph!l:th&_4d4m:fl4g_r()g&r:st&v&_f&d&r!k:p4ssw()rd_st&v&:g()()dw()rk
